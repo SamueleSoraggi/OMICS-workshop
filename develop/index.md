@@ -1,5 +1,5 @@
 ---
-title: Name of Page
+title: OMICS focus group workshop
 summary: A brief description of my document.
 hide:
   - navigation
@@ -18,13 +18,15 @@ hide:
 # You should hide the Table of Contents if there are no important titles
 -->
 
-<center>
-# Name of the Course
-</center>
+
 
 **Updated:** *{{ git_revision_date_localized }}*
 
-Here is where you will write an abstract about the course. This is an example of the use of citations [@creative_commons_2022]
+A relaxed introductory workshop to genomics, transcriptomics and proteomics using the Health Data Science Sandbox. Everything works on an interactive coding setup on `jupyterlab` and partially on a `Virtual machine`, while the code is written in `python`, `R` and `bash`. The workshop is designed to be a hands-on experience, where the participants will be able to run the code themselves and get a feel for the data. 
+
+Computing power is provided through `uCloud` - look at the top menu for instructions on how to access it.
+
+Every day covers a different OMICS, and you will find instructions for the whole tutorial in the top menu of this webpage.
 
 <br>
 

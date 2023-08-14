@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # Other
 *.DS_Store
+
+# built home page
+docs
