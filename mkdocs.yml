@@ -158,11 +158,13 @@ copyright: CC-BY-SA 4.0 license
 nav:
   - 'Introduction': index.md
   - 'uCloud access': uCloud.md
-  - 'Day3 - Proteomics': Proteomics.md
-  - General Page: empty.md
-  - Jupyter notebook: jupyter_example.ipynb
-  - Knitted Rmarkdown: rmarkdown_example.md
-  - Keyword index: keywords.md
-  - Contributors: contributors.md
+  - 'Day1 - Genomics': Genomics.md
+  #- 'Day2 - Transcriptomics': Transcriptomics.md
+  #- 'Day3 - Proteomics': Proteomics.md
+  #- General Page: empty.md
+  #- Jupyter notebook: jupyter_example.ipynb
+  #- Knitted Rmarkdown: rmarkdown_example.md
+  #- Keyword index: keywords.md
+  #- Contributors: contributors.md
   
    
